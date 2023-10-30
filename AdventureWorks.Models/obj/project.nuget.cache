@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x3Lp87YpZSFT6UnCPwjMWfMo+0ZbWyJUc76TWj8JqwCBPwXzvOg42vmdlLg1mrdpBfCcwzSiIVRU7tKQXIaUlw==",
+  "success": true,
+  "projectFilePath": "D:\\ProCoding\\AZ-204-DevelopingSolutionsforMicrosoftAzure-master\\Allfiles\\Labs\\04\\Starter\\AdventureWorks\\AdventureWorks.Models\\AdventureWorks.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dougl\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
